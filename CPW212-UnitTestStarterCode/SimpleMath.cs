@@ -20,7 +20,7 @@ namespace CPW212_UnitTestStarterCode
 
         public static double Subtract(double a, double b)
         {
-            throw new NotImplementedException();
+            return a - b;
         }
 
         public static double Multiply(double a, double b)
